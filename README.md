@@ -25,6 +25,9 @@ Palvelin käynnistyy osoitteeseen `http://127.0.0.1:8000` ja dokumentaatio löyt
 ---
 
 ### requirements.txt
+fastapi
+uvicorn
+
 
 ```
 
